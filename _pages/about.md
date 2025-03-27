@@ -92,6 +92,7 @@ I'm a third year undergraduate student from [School of NEU](https://ehall.neuq.e
 
 - **全球校园人工智能算法精英大赛（算法挑战赛）** (2024.11)
   - 作品《公共巴士辅助无线充电的电动汽车调度》，国家级一等奖（全国第一名）
+  ![公共巴士辅助无线充电的电动汽车调度](images/挑战国.jpg "挑战国")
 
 - **全球校园人工智能算法精英大赛（算法应用赛）** (2024.12)
   - 作品《无人车视觉巡航》，国家级一等奖
@@ -216,15 +217,4 @@ PyTorch / Linux / 服务器运维
 ### 创新能力与素养
 问题建模 / 解决方案设计 / 优化算法
 
-## 联系方式
 
-如果您对我的经历或项目感兴趣，欢迎随时联系我
-
-- Email: your.email@example.com
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
-- Twitter: https://twitter.com/yourusername
-
-© 2024 刘宇航 - 个人主页
-
-用代码编织梦想，以算法解决现实问题
