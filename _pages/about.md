@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of NEU](https://ehall.neuq.edu.cn/), [NEU](https://neu.edu.cn/). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
+I'm a third year undergraduate student from [Northeastern University](https://ehall.neuq.edu.cn/), [NEU](https://neu.edu.cn/). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
 
 ## 个人简介
 
@@ -96,6 +96,7 @@ I'm a third year undergraduate student from [School of NEU](https://ehall.neuq.e
 
 - **全国大学英语六级考试** (2023.06)
   - 450分
-
+![cet6](images/cet6.png "cet6")
 - **全国大学英语四级考试** (2023.03)
   - 528分
+![cet4](images/cet4.png "cet4")
