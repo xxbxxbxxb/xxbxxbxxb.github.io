@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of NEU](https://neuq.edu.cn/), [NEU](https://neu.edu.cn/). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
+I'm a third year undergraduate student from [School of NEU](https://ehall.neuq.edu.cn/), [NEU](https://neu.edu.cn/). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.

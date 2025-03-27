@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 1,
+            "activePatchIndex": 2,
             "patches": [
                 {
                     "date": 1743076129802,
@@ -12,6 +12,10 @@
                 {
                     "date": 1743076140400,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,10 +7,10 @@\n # NOTE that only one of the CV options should be selected, the first is for the\r\n #      Markdown formatted page while the second is generated using JSON.\r\n \r\n main:\r\n-  - title: \"Publications\"\r\n-    url: /publications/\r\n+  # - title: \"Publications\"\r\n+  #   url: /publications/\r\n \r\n         \r\n   # - title: \"Blog Posts\"\r\n   #   url: /year-archive/\r\n@@ -18,6 +18,6 @@\n     \r\n   # - title: \"CV\"\r\n   #   url: /cv-json/\r\n     \r\n-  - title: \"Guide\"\r\n-    url: /markdown/\r\n+  # - title: \"Guide\"\r\n+  #   url: /markdown/\r\n"
+                },
+                {
+                    "date": 1743078106009,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,10 +7,10 @@\n # NOTE that only one of the CV options should be selected, the first is for the\r\n #      Markdown formatted page while the second is generated using JSON.\r\n \r\n main:\r\n-  # - title: \"Publications\"\r\n-  #   url: /publications/\r\n+  - title: \"Publications\"\r\n+    url: /publications/\r\n \r\n         \r\n   # - title: \"Blog Posts\"\r\n   #   url: /year-archive/\r\n"
                 }
             ],
             "date": 1743076129802,
