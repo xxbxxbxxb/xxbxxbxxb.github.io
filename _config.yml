@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "个人主页"
 title_separator          : "-"
-name                     : &name "xingbang"
+name                     : &name "Xingbang"
 description              : &description "personal description"
 url                      : https://xxbxxbxxb.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "xxbxxbxxb/xxbxxbxxb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "xingbang"
+  avatar           : "bg.jpg"
+  name             : "Xingbang Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : " "
   location         : "China"
   employer         : "Northeastern University"
   uri              : # URL

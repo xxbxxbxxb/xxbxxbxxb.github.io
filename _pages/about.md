@@ -14,7 +14,7 @@ I'm a third year undergraduate student from [Northeastern University](https://eh
 计算机科学与技术
 
 - 共青团员
-- 东北大学
+- [东北大学](https://ehall.neuq.edu.cn/)
 
 ## 教育背景
 
