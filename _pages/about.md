@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Northeastern University](https://ehall.neuq.edu.cn/), [NEU](https://neu.edu.cn/). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
-
 ## 个人简介
 
 计算机科学与技术
@@ -54,11 +52,15 @@ I'm a third year undergraduate student from [Northeastern University](https://eh
 - **中国大学生计算机设计大赛** (2024.06)
   - 作品《本草悟道》，省级二等奖
 
-### 数学
+### 数学类竞赛
 
 - **国际大学生数学建模竞赛** (2024.04)
   - 作品《Submerged Symphony: Optimizing Rescues for Submersible with Predictive Models》，H奖（国家级二等奖）
   ![美赛](images/数学建模H奖.jpg "美赛h")
+
+- **亚太地区大学生数学建模竞赛** (2024.04)
+  - 国三等奖
+  ![亚太数模](images/apmcm.jpg "apmcm")
 
 - **全国大学生数学竞赛** (2024.04)
   - 省一等奖
