@@ -98,7 +98,7 @@ redirect_from:
   
   - 本草悟道部署流程图
     ![流程图](images/wudao流程.svg "流程图")
-    
+
   - 本草悟道与基座模型回答对比图
   
     ![pre](images/wudaopre.png "pre")
