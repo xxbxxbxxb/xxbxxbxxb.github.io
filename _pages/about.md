@@ -96,7 +96,9 @@ redirect_from:
      - 文生图功能：通过`Playground-v2.5`模型生成中药材和经脉图片
      - 本草悟道模型构建流程图
   
-  ![流程图](images/wudao流程.svg "流程图")
+  - 本草悟道部署流程图
+    ![流程图](images/wudao流程.svg "流程图")
+    
   - 本草悟道与基座模型回答对比图
   
     ![pre](images/wudaopre.png "pre")
