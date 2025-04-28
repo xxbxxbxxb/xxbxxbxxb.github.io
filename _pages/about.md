@@ -99,12 +99,12 @@ redirect_from:
   ![流程图](images/wudao流程.svg "流程图")
   - 本草悟道与基座模型回答对比图
   
-  ![pre](images/wudaopre.png "pre")
+    ![pre](images/wudaopre.png "pre")
 
-  ![now](images/wudaonow.png "now")
+    ![now](images/wudaonow.png "now")
 
   - 本草悟道文生图功能
-  ![文生图](images/stablediffusion.png "文生图")
+    ![文生图](images/stablediffusion.png "文生图")
 
 ### 数学类竞赛
 
